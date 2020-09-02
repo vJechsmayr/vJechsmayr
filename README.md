@@ -8,7 +8,7 @@ Additional to the Study I started working as IT-Allrounder and Driving Teacher a
 
 [![Viki's github stats](https://github-readme-stats.vercel.app/api?username=vJechsmayr&show_icons=true&theme=tokyonight)](https://github.com/vJechsmayr/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vJechsmayr)](https://github.com/vJechsmayr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vJechsmayr&layout=compact)](https://github.com/vJechsmayr/github-readme-stats)
 
 <!--
 **vJechsmayr/vJechsmayr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
