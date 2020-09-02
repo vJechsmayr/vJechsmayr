@@ -6,6 +6,8 @@ After finishing the IT-HTL in Ybbs with my Major Internet- and Media I workes as
 In October 2012 I started studying Business Informatics at the Johannes Kepler University Linz.
 Additional to the Study I started working as IT-Allrounder and Driving Teacher at Easy Drivers. A year before I finished my Business Informatics Study I was recruited by epunkt to work as Active Sourcer with Focus on IT-Jobs and Softwaredeveloper.
 
+[![Viki's github stats](https://github-readme-stats.vercel.app/api?username=vJechsmayr&show_icons=true&theme=tokyonight)](https://github.com/vJechsmayr/github-readme-stats)
+
 <!--
 **vJechsmayr/vJechsmayr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
