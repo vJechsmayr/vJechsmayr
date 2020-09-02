@@ -11,6 +11,12 @@ Additional to the Study I started working as IT-Allrounder and Driving Teacher a
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vJechsmayr&layout=compact&theme=tokyonight)](https://github.com/vJechsmayr/github-readme-stats)
 
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/vJechsmayr/count.svg" />
+</p>
+
 <!--
 **vJechsmayr/vJechsmayr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
