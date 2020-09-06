@@ -18,29 +18,19 @@ Thank you epunkt ❤️ Best Place to work! ❤️ [#epunktliebtdich](https://ww
 - 🤓 Learn new Stuff
 
 ### I'm currently learning
-- 🌱 Python
-- 🌱 Angular
-- 🌱 Driving Deeper into HTML & CSS
-- 🌱 Japanese
-- 🌱 JavaScript Security
-- 🌱 Plant Based Dieting -> A Healthy Lifestyle
-- 🌱 Neuro-Science
+<p align="center">
+  🌱 Python | 🌱 <b>Angular</b> | 🌱 Driving Deeper into HTML & CSS | 🌱 Japanese | 🌱 JavaScript Security | 🌱 Plant Based Diet | 🌱 Neuro-Science
+</p>
 
 ### Get in touch ☕
 <p align="center">
+  <a href="https://dev.to/vjechsmayr"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'></a>
+  <a href="https://www.linkedin.com/in/viktoria-jechsmayr/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='dev' height='40'></a>
+  <a href="https://www.instagram.com/vJechsmayr/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'></a>
+  <a href="https://twitter.com/vJechsmayr"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'></a>
+  <a href="https://stackoverflow.com/users/8055029"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'></a>
+  <a href="https://www.facebook.com/jexmaster"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'></a>
   
-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/vjechsmayr)
-  
-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='dev' height='40'>](https://www.linkedin.com/in/viktoria-jechsmayr/)
-  
-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/vJechsmayr/)
-  
-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/vJechsmayr)
-  
-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/8055029)
-  
-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/jexmaster)
-
 </p>
 
 
@@ -53,13 +43,7 @@ Thank you epunkt ❤️ Best Place to work! ❤️ [#epunktliebtdich](https://ww
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vJechsmayr&layout=compact&theme=tokyonight)](https://github.com/vJechsmayr/github-readme-stats)
 -->
 </p>
-<hr>
 
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/vJechsmayr/count.svg" />
-</p>
 
 <!--
 **vJechsmayr/vJechsmayr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
