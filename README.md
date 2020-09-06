@@ -1,15 +1,25 @@
 ### Hi, I'm Viktoria 👋 👩🏻‍💻
 
 <!-- Header Image? -->
-[![GitHub Game of Life](https://github4life.herokuapp.com/vJechsmayr.gif?z=6)](https://github4life.herokuapp.com/vJechsmayr)
 
 After finishing the IT-HTL in Ybbs with my Major Internet- and Media I workes as C# Developer and Software-Tester in Vienna.
 In October 2012 I started studying Business Informatics at the Johannes Kepler University Linz.
 Additional to the Study I started working as IT-Allrounder and Driving Teacher at Easy Drivers. A year before I finished my Business Informatics Study I was recruited by epunkt to work as Active Sourcer with Focus on IT-Jobs and Softwaredeveloper.
 
+- 🌱 I'm currently learning: Python, Angular, Deep Dive into HTML & CSS for Perfection
+
 [![Viki's github stats](https://github-readme-stats.vercel.app/api?username=vJechsmayr&show_icons=true&theme=tokyonight)](https://github.com/vJechsmayr/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vJechsmayr&layout=compact&theme=tokyonight)](https://github.com/vJechsmayr/github-readme-stats)
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vJechsmayr)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/vjechsmayr)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/viktoria-jechsmayr/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/jexmaster)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/vJechsmayr/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/vJechsmayr)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/8055029)  
 
 
 <p align="center"> 
