@@ -26,6 +26,11 @@ Additional to the Study I started working as IT-Allrounder and Driving Teacher a
 
 ### Get in touch ☕
 <p align="center">
+[Dev.to](https://dev.to/vjechsmayr)
+[LinkedIn](https://www.linkedin.com/in/viktoria-jechsmayr/)
+[Instagram](https://www.instagram.com/vJechsmayr/)
+[Twitter](https://twitter.com/vJechsmayr)
+[Stackoverflow](https://stackoverflow.com/users/8055029)
   
 [<img src='https://github.com/vJechsmayr/vJechsmayr/blob/master/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/jexmaster)
 
