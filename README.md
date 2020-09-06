@@ -26,13 +26,9 @@ Additional to the Study I started working as IT-Allrounder and Driving Teacher a
 
 ### Get in touch ☕
 <p align="center">
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vJechsmayr)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/vjechsmayr)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/viktoria-jechsmayr/)  
-[<img src='https://github.com/vJechsmayr/vJechsmayr/blob/master/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/jexmaster)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/vJechsmayr/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/vJechsmayr)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/8055029)  
+  
+[<img src='https://github.com/vJechsmayr/vJechsmayr/blob/master/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/jexmaster)
+
 </p>
 
 
