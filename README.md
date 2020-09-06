@@ -37,7 +37,7 @@ Additional to the Study I started working as IT-Allrounder and Driving Teacher a
   
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/8055029)
   
-[<img src='https://github.com/vJechsmayr/vJechsmayr/blob/master/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/jexmaster)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/jexmaster)
 
 </p>
 
