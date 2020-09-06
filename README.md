@@ -8,6 +8,7 @@ Additional to the Study I started working as IT-Allrounder and Driving Teacher a
 
 - 🌱 I'm currently learning: Python, Angular, Deep Dive into HTML & CSS for Perfection
 <div align="center">
+  
 [![Viki's github stats](https://github-readme-stats.vercel.app/api?username=vJechsmayr&show_icons=true&theme=tokyonight)](https://github.com/vJechsmayr/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vJechsmayr&layout=compact&theme=tokyonight)](https://github.com/vJechsmayr/github-readme-stats)
