@@ -1,7 +1,7 @@
 ## Hi, I'm Viktoria 👋 👩🏻‍💻
 
 <!-- Header Image? -->
-<img src="https://github.com/vJechsmayr/vJechsmayr/blog-8871.jpg" />
+<img src="https://github.com/vJechsmayr/vJechsmayr/blob/master/blog-8871.jpg" />
 
 
 ### About me
