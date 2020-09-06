@@ -27,17 +27,17 @@ Additional to the Study I started working as IT-Allrounder and Driving Teacher a
 ### Get in touch ☕
 <p align="center">
   
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/vjechsmayr)
+- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/vjechsmayr)
   
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='dev' height='40'>](https://www.linkedin.com/in/viktoria-jechsmayr/)
+- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='dev' height='40'>](https://www.linkedin.com/in/viktoria-jechsmayr/)
   
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/vJechsmayr/)
+- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/vJechsmayr/)
   
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/vJechsmayr)
+- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/vJechsmayr)
   
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/8055029)
+- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/8055029)
   
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/jexmaster)
+- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/jexmaster)
 
 </p>
 
@@ -47,9 +47,9 @@ Additional to the Study I started working as IT-Allrounder and Driving Teacher a
 <p align="center">
   
 [![Viki's github stats](https://github-readme-stats.vercel.app/api?username=vJechsmayr&show_icons=true&theme=tokyonight)](https://github.com/vJechsmayr/github-readme-stats)
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vJechsmayr&layout=compact&theme=tokyonight)](https://github.com/vJechsmayr/github-readme-stats)
-
+-->
 </p>
 <hr>
 
