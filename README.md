@@ -8,28 +8,21 @@
 After finishing the IT-HTL in Ybbs with my Major Internet- and Media I workes as C# Developer and Software-Tester in Vienna.
 In October 2012 I started studying Business Informatics at the Johannes Kepler University Linz.
 Additional to the Study I started working as IT-Allrounder and Driving Teacher at Easy Drivers. A year before I finished my Business Informatics Study I was recruited by epunkt to work as Active Sourcer with Focus on IT-Jobs and Softwaredeveloper.
-In April 2019 I changed the department at epunkt and I'm now working as ❤️Software Developer, IT-Application and Projectmanager, with small steps I started in Datawarehousing and Data Analytics, did my first PowerBI Reports 📊 and I love it ❤️.
-Thank you epunkt ❤️ Best Place to work! ❤️ [#epunktliebtdich](https://www.instagram.com/explore/tags/epunktliebtdich/)
-Since May 2021 I am proud Mum of a beautiful little Girl and started my Master Studies at JKU during my maternity leave in October 2021, currently ongoing.
-
+In April 2019 I changed the department at epunkt and worked as Software Developer, IT-Application and Projectmanager, with small steps I started in Datawarehousing and Data Analytics, did my first PowerBI Reports 📊 and I loved it ❤️.
+Since May 2021 I am proud Mum of a beautiful little Girl and started my Master Studies at JKU during my maternity leave in October 2021, currently ongoing. In May 2023 my little son joined the family to complete it. ❤️
+In July 2024 i start a new work experience...
 
 ### Things I am passionate about
-- 👩🏻‍💻 Coding
+- 👩🏻‍💻 Projects & Coding
 - 📸 Make Photos with my Nikon ❤️
 - 🐶 Dogs
 - 🤓 Learn new Stuff
-
-### I'm currently learning
-<p align="center">
-  🌱 TypeScript & <b>Angular</b> | 🌱 Driving Deeper into HTML & CSS | 🌱 3 new languages: dutch, turkish, italian | 🌱 Network & Security | 🌱 Plant Based Diet 
-</p>
 
 ### Get in touch ☕
 <p align="center">
   <a href="https://dev.to/vjechsmayr"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'></a>
   <a href="https://www.linkedin.com/in/viktoria-jechsmayr/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='dev' height='40'></a>
   <a href="https://www.instagram.com/vJechsmayr/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'></a>
-  <a href="https://twitter.com/vJechsmayr"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'></a>
   <a href="https://stackoverflow.com/users/8055029"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'></a>
   <a href="https://www.facebook.com/jexmaster"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'></a>
   
